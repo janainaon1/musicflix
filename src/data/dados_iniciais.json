@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "MBP",
+      "link": "https://www.youtube.com/results?search_query=mpb",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Musica popular brasileira",
+        "url": "https://www.youtube.com/results?search_query=mpb"
+      },
+      "videos": [
+        {
+          "titulo": "Fiel acústico - Saulo de Tarso",
+          "url": "https://www.youtube.com/watch?v=TIJrLggpHrQ"
+        },
+        {
+          "titulo": "O amor existe - Mar aberto",
+          "url": "https://www.youtube.com/watch?v=hb3TKXpJldQ"
+        },
+        {
+          "titulo": "O Anjo Mais Velho - O Teatro Mágico",
+          "url": "https://www.youtube.com/watch?v=StAXDYKfNEo"
+        },
+        {
+          "titulo": "Dengo - Anavitória",
+          "url": "https://www.youtube.com/watch?v=dquAdxtMj2o"
+        },
+        {
+          "titulo": "Amado - Vanessa Da Mata",
+          "url": "https://www.youtube.com/watch?v=aTHzPhaiw6Q"
+        },
+        {
+          "titulo": "Coisas que eu sei - Danni Carlos",
+          "url": "https://www.youtube.com/watch?v=cpzzZOi7a0s"
+        },
+        {
+          "titulo": "Se Fosse Tão Fácil - Mar aberto",
+          "url": "https://www.youtube.com/watch?v=2BuhVYVbD2g"
+        },
+        {
+          "titulo": "Nossas Vidas - Mar aberto",
+          "url": "https://www.youtube.com/watch?v=wH4m-0897WM"
+        }              
+      ]
+    },
+    {
+      "titulo": "Pop",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "As músicas pop",
+        "url": "https://www.youtube.com/watch?v=VndDRR2Q6zM"
+      },
+      "videos": [
+        {
+          "titulo": "Luan Santana - Mesmo Sem Estar ft Sandy",
+          "url": "https://www.youtube.com/watch?v=VndDRR2Q6zM"
+        },
+        {
+          "titulo": "Luka - Porta Aberta",
+          "url": "https://www.youtube.com/watch?v=n2g0owaRd7M"
+        },
+        {
+          "titulo": "Tânia Mara - Se Quiser",
+          "url": "https://www.youtube.com/watch?v=6IMxtJWwMkE"
+        },
+        {
+          "titulo": "Marjorie Estiano - Você Sempre Será",
+          "url": "https://www.youtube.com/watch?v=umDDzudOyy0"
+        }, 
+        {
+          "titulo": "Rouge - Um Anjo Veio Me Falar",
+          "url": "https://www.youtube.com/watch?v=H5dIPudv0os"
+        }
+      ]
+    },
+    {
+      "titulo": "Sertanejo",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Jorge & Mateus - Propaganda [Terra Sem CEP]",
+          "url": "https://www.youtube.com/watch?v=mQr7XemLs8s"
+        },
+        {
+          "titulo": "Gusttavo Lima - Saudade Sua",
+          "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
+        },
+        {
+          "titulo": "João Bosco & Vinicius feat. Matheus - Segunda Taça (Ao Vivo em Goiânia)",
+          "url": "https://www.youtube.com/watch?v=n8SdVLTNCrg"
+        },
+        {
+          "titulo": "Jorge & Mateus - CHEIROSA",
+          "url": "https://www.youtube.com/watch?v=YZT1U2rlvyM"
+        }
+      ]
+    },
+    {
+      "titulo": "Pagode",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Pixote - Insegurança",
+          "url": "https://www.youtube.com/watch?v=WQyKuEsLpRY"
+        },
+        {
+          "titulo": "Sampa Crew - A Carta",
+          "url": "https://www.youtube.com/watch?v=KNv0BE1aIcs"
+        },
+        {
+          "titulo": "D'Black e Negra Li - 1 Minuto",
+          "url": "https://www.youtube.com/watch?v=5icahC0glng"
+        },
+        {
+          "titulo": "Sorriso Maroto - Futuro Prometido",
+          "url": "https://www.youtube.com/watch?v=3upd0R9Kajw"
+        }
+      ]
+    },
+    {
+      "titulo": "Rock nacional",
+      "cor": "red",
+      "link_extra": {
+        "text": "As melhores músicas da história",
+        "url": "https://www.youtube.com/watch?v=6eEOegzrwJg"
+      },
+      "videos": [
+        {
+          "text": "Charlie Brown Jr. - Dias De Luta, Dias De Glória",
+          "url": "https://www.youtube.com/watch?v=6eEOegzrwJg"
+        },
+        {
+          "titulo": "CPM22 - Um Minuto Para O Fim Do Mundo - Extra",
+          "url": "https://www.youtube.com/watch?v=RsEeyZNiwUk"
+        },
+        {
+          "titulo": "Skank - Dois Rios (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=r71BvxeVFGY"
+        },
+        {
+          "titulo": "Jota Quest - Tempo Perdido",
+          "url": "https://www.youtube.com/watch?v=HQS4gwySU7s"
+        },
+        {
+          "titulo": "Detonautas - Olhos certos",
+          "url": "https://www.youtube.com/watch?v=m2TIIJvW-xk"
+        },
+        {
+          "titulo": "Você me faz tão bem - Detonautas",
+          "url": "https://www.youtube.com/watch?v=FEH6GwZ03iM"
+        }
+      ]
+    },
+    {
+      "titulo": "Funk",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Anitta, Mc Zaac, Maejor ft. Tropkillaz & DJ Yuri Martins - Vai Malandra (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=kDhptBT_-VI"
+        },
+        {
+          "titulo": "Kevinho e MC Kekel - O Bebê (kondzilla.com) | Official Music Video",
+          "url": "https://www.youtube.com/watch?v=Btyfrd-UtSw"
+        },
+        {
+          "titulo": "Nego do Borel - Você Partiu Meu Coração ft. Anitta, Wesley Safadão (Video Oficial)",
+          "url": "https://www.youtube.com/watch?v=Xp-dKdSUuLk"
+        },
+        {
+          "titulo": "Simone & Simaria - Loka (Ao Vivo) ft. Anitta",
+          "url": "https://www.youtube.com/watch?v=UrT0zCmsN8c"
+        },
+        {
+          "titulo": "Lexa :: Para de Marra (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=WX8mXPb1w_A"
+        }
+      ]
+    }
+  ]
+}
