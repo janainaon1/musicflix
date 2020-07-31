@@ -7,9 +7,15 @@
       "cor": "#cbd1ff"
     },
     {
-      "id": 1,
+      "id": 2,
       "nome": "Back End",
       "descricao": "Descrição da categoria Back",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 3,
+      "nome": "Design",
+      "descricao": "Descrição da categoria Design",
       "cor": "#cbd1ff"
     }
   ]
